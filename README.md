@@ -1,7 +1,7 @@
 # ctasklist
 cmd tool, allow list / find a running process, or kill them.
 Use it in your custom bat files.
-To install, copyjust  in your path or windows/system directory
+To install, just copy it in your path or windows/system directory
 
 Usage: 
 <code>
